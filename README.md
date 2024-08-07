@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! Here's Leager.</h2>
+<h1 align="center">👋 Hello! Here's Leager.</h1>
 
 <p align="center">
   <a href="https://leager-zju.github.io/">>> My Blog <<</a>
@@ -8,15 +8,15 @@
 
 <table>
 
-<td><tr>
+<tr><td>
 
 ### Education
 
 Zhejiang University
 
-</tr></td>
+</td></tr>
 
-<td><tr>
+<tr><td>
 
 ### Internships & Work
 
@@ -24,7 +24,7 @@ DolphinDB
 
 Tencent
 
-</tr></td>
+</td></tr>
 
 </table>
 
