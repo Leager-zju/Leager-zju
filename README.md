@@ -6,13 +6,35 @@
 
 ## 🍕 About Me
 
+<style>
+  table {
+    width: 100%;
+  }
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+</style>
+
 <table>
 
 <tr><td>
 
 ### Education
 
-Zhejiang University
+<div class="container">
+<div><b>Zhejiang University</b> - Information Engineering - Bachelor</div>
+<div>2018.09 ~ 2022.06</div>
+</div>
+<i>转码 boy</i>
+
+<br>
+
+<div class="container">
+<div><b>Zhejiang University</b> - Computer Science and Technology - Master</div>
+<div>2022.06 ~ Today</div>
+</div>
+<i>Open Courses Learner，Database researcher</i>
 
 </td></tr>
 
@@ -20,11 +42,55 @@ Zhejiang University
 
 ### Internships & Work
 
-DolphinDB
+<div class="container">
+<div><b>DolphinDB</b> - Database kernel development - Intern</div>
+<div>2023.12 ~ 2024.04</div>
+</div>
+<i>流数据引擎研发、Runtime 性能优化、流数据高可用</i>
 
-Tencent
+<br>
+
+<div class="container">
+<div><b>Tencent IEG 北极光工作室</b> - Game server development - Intern</div>
+<div>2024.06 ~ 2024.09</div>
+</div>
+<i>游戏逻辑业务仔</i>
 
 </td></tr>
+
+<tr><td>
+
+### Projects
+
+- **CMU15445**(C++) - [数据库系统](https://github.com/Leager-zju/CMU15-445)
+- **MIT6.s081**(C) - [操作系统](https://github.com/Leager-zju/MIT-6.s081)
+- **CS144**(C++) - [计算机网络](https://github.com/Leager-zju/CS144)
+- **MIT6.824**(Go) - [分布式系统](https://github.com/Leager-zju/MIT6.824)
+- **GAMES101**(C++) - [图形渲染](https://github.com/Leager-zju/GAMES101)
+
+</td><tr>
+
+<tr><td>
+
+### Skills
+
+- Languages
+  - **C++**
+  - **Go**
+  - **Python**
+
+- Expertise
+  - **Data Structures & Algorithms**
+  - **Operating System**
+  - **Network**
+  - **Distributed System**
+
+- Tools
+  - **Linux**
+  - **Git**
+  - **Shell**
+
+</td><tr>
 
 </table>
 
