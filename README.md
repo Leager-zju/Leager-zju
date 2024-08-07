@@ -1,29 +1,43 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! Here's Leager.</h2>
 
-<!--
-**Leager-zju/Leager-zju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://leager-zju.github.io/">>> My Blog <<</a>
+</p>
 
-Here are some ideas to get you started:
+## 🍕 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+
+<td><tr>
+
+### Education
+
+Zhejiang University
+
+</tr></td>
+
+<td><tr>
+
+### Internships & Work
+
+DolphinDB
+
+Tencent
+
+</tr></td>
+
+</table>
 
 <!-- Used from https://github.com/anuraghazra/github-readme-stats -->
-🌱 My Github Stats
+🌱 Current Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Leager-zju&rank_icon=github" alt="Leager-zju">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leager-zju&rank_icon=github&show_icons=true" alt="Leager-zju" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leager-zju&layout=compact" alt="Top Languages" height="150">
 </p>
 
-⚡ And the most used languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="Top Languages">
-</p>
+<picture>
+  <source srcset="https://cdn.jsdelivr.net/gh/Leager-zju/Leager-zju/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="https://cdn.jsdelivr.net/gh/Leager-zju/Leager-zju/profile-3d-contrib/profile-gitblock.svg" media="(prefers-color-scheme: light)">
+  <img src="https://cdn.jsdelivr.net/gh/Leager-zju/Leager-zju/profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
