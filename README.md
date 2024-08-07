@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hello! Here's Leager.</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://leager-zju.github.io/">>> My Blog <<</a>
-</p>
+# 👋 Hello! Here's Leager.
+
+
+<a href="https://leager-zju.github.io/">>> My Blog <<</a>
 
 <table width="100%">
 
@@ -82,16 +83,15 @@
 
 </table>
 
-<!-- Used from https://github.com/anuraghazra/github-readme-stats -->
 🌱 Current Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leager-zju&rank_icon=github&show_icons=true" alt="Leager-zju" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leager-zju&layout=compact" alt="Top Languages" height="150">
-</p>
+<!-- Used from https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Leager-zju&rank_icon=github&show_icons=true" alt="Leager-zju" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leager-zju&layout=compact" alt="Top Languages" height="150">
 
 <picture>
   <source srcset="https://cdn.jsdelivr.net/gh/Leager-zju/Leager-zju/profile-3d-contrib/profile-night-rainbow.svg" media="(prefers-color-scheme: dark)">
   <source srcset="https://cdn.jsdelivr.net/gh/Leager-zju/Leager-zju/profile-3d-contrib/profile-gitblock.svg" media="(prefers-color-scheme: light)">
   <img src="https://cdn.jsdelivr.net/gh/Leager-zju/Leager-zju/profile-3d-contrib/profile-night-rainbow.svg">
 </picture>
+
+</div>
