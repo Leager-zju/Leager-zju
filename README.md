@@ -5,7 +5,7 @@
 
 <a href="https://leager-zju.github.io/">>> My Blog <<</a>
 
-<table width="100%">
+<table width="120%">
 
 <tr><td>
 
@@ -32,18 +32,16 @@
 ### Internships & Work
 
 <div style="display: flex; justify-content: space-between;">
-<div><b>DolphinDB</b> - Database kernel development - Intern</div>
-<div>2023.12 ~ 2024.04</div>
-<img align="right" width="44" src="./assets/ddb.png" />
+  <div><b>DolphinDB</b> - Database kernel development - Intern</div>
+  <div>2023.12 ~ 2024.04</div>
 </div>
 <i>流数据引擎研发、Runtime 性能优化、流数据高可用</i>
 
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-<div><b>Tencent IEG 北极光工作室</b> - Game server development - Intern</div>
-<div>2024.06 ~ 2024.09</div>
-<img align="right" width="88" src="./assets/tencent.png" />
+  <div><b>Tencent IEG 北极光工作室</b> - Game server development - Intern</div>
+  <div>2024.06 ~ 2024.09</div>
 </div>
 <i>游戏逻辑业务仔</i>
 
