@@ -6,7 +6,7 @@
 
 </div>
 
-<table border="2" overflow-y=hidden>
+<table border="2">
 
 <tr><td>
 
@@ -110,6 +110,6 @@
 
 </div>
 
-</td><tr>
+</td></tr>
 
 </table>
