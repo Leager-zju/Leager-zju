@@ -2,8 +2,11 @@
 
 # 👋 Hello! Here's Leager.
 
-
 <a href="https://leager-zju.github.io/">>> My Blog <<</a>
+
+</div>
+
+## About Me
 
 <table width="120%">
 
@@ -83,7 +86,10 @@
 
 </table>
 
+
 ## 🌱 Current Stats
+
+<div align="center">
 <!-- Used from https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Leager-zju&rank_icon=github&show_icons=true" alt="Leager-zju" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leager-zju&layout=compact" alt="Top Languages" height="150">
