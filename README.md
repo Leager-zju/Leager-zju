@@ -8,7 +8,7 @@
 
 ## About Me
 
-<table width="120%">
+<table width="100%" border="1">
 
 <tr><td>
 
@@ -84,7 +84,7 @@
 
 </td><tr>
 
-</table>
+<tr><td>
 
 
 ## 🌱 Current Stats
@@ -101,3 +101,5 @@
 </picture>
 
 </div>
+
+</table>
