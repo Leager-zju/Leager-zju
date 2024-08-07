@@ -31,7 +31,7 @@
 
 ### Internships & Work
 
-<div class="container">
+<div style="display: flex; justify-content: space-between;">
 <div><b>DolphinDB</b> - Database kernel development - Intern</div>
 <div>2023.12 ~ 2024.04</div>
 </div>
@@ -39,7 +39,7 @@
 
 <br>
 
-<div class="container">
+<div style="display: flex; justify-content: space-between;">
 <div><b>Tencent IEG 北极光工作室</b> - Game server development - Intern</div>
 <div>2024.06 ~ 2024.09</div>
 </div>
