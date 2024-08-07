@@ -14,18 +14,14 @@
 
 ### Education
 
-<div style="display: flex; justify-content: space-between;">
-<div><b>Zhejiang University</b> - Information Engineering - Bachelor</div>
-<div>2018.09 ~ 2022.06</div>
-</div>
+<b>Zhejiang University</b> - Information Engineering - Bachelor - ⏱️2018.09 ~ 2022.06
+
 <i>转码 boy</i>
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-<div><b>Zhejiang University</b> - Computer Science and Technology - Master</div>
-<div>2022.06 ~ Now</div>
-</div>
+<b>Zhejiang University</b> - Computer Science and Technology - Master - ⏱️2022.06 ~ Now
+
 <i>Open Courses Learner，Database researcher</i>
 
 </td></tr>
@@ -34,18 +30,14 @@
 
 ### Internships & Work
 
-<div style="display: flex; justify-content: space-between;">
-  <div><b>DolphinDB</b> - Database kernel development - Intern</div>
-  <div>2023.12 ~ 2024.04</div>
-</div>
+<b>DolphinDB</b> - Database kernel development - Intern - ⏱️2023.12 ~ 2024.04
+
 <i>流数据引擎研发、Runtime 性能优化、流数据高可用</i>
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-  <div><b>Tencent IEG 北极光工作室</b> - Game server development - Intern</div>
-  <div>2024.06 ~ 2024.09</div>
-</div>
+<b>Tencent IEG 北极光工作室</b> - Game server development - Intern - ⏱️2024.06 ~ 2024.09
+
 <i>游戏逻辑业务仔</i>
 
 </td></tr>
