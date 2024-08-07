@@ -4,26 +4,13 @@
   <a href="https://leager-zju.github.io/">>> My Blog <<</a>
 </p>
 
-## 🍕 About Me
-<head>
-<style>
-  table {
-    width: 100%;
-  }
-  .container {
-    display: flex;
-    justify-content: space-between;
-  }
-</style>
-</head>
-
-<table>
+<table width="100%">
 
 <tr><td>
 
 ### Education
 
-<div class="container">
+<div style="display: flex; justify-content: space-between;">
 <div><b>Zhejiang University</b> - Information Engineering - Bachelor</div>
 <div>2018.09 ~ 2022.06</div>
 </div>
@@ -31,7 +18,7 @@
 
 <br>
 
-<div class="container">
+<div style="display: flex; justify-content: space-between;">
 <div><b>Zhejiang University</b> - Computer Science and Technology - Master</div>
 <div>2022.06 ~ Today</div>
 </div>
