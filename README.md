@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Leager's github stats](https://github-readme-stats.vercel.app/api?username=Leager-zju)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Used from https://github.com/anuraghazra/github-readme-stats -->
+🌱 My Github Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Leager-zju&rank_icon=github" alt="Leager-zju">
+</p>
+
+⚡ And the most used languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="Top Languages">
+</p>
