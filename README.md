@@ -5,7 +5,7 @@
 </p>
 
 ## 🍕 About Me
-
+<head>
 <style>
   table {
     width: 100%;
@@ -15,6 +15,7 @@
     justify-content: space-between;
   }
 </style>
+</head>
 
 <table>
 
