@@ -21,7 +21,7 @@
 
 <div style="display: flex; justify-content: space-between;">
 <div><b>Zhejiang University</b> - Computer Science and Technology - Master</div>
-<div>2022.06 ~ Today</div>
+<div>2022.06 ~ Now</div>
 </div>
 <i>Open Courses Learner，Database researcher</i>
 
@@ -34,6 +34,7 @@
 <div style="display: flex; justify-content: space-between;">
 <div><b>DolphinDB</b> - Database kernel development - Intern</div>
 <div>2023.12 ~ 2024.04</div>
+<img align="right" width="44" src="./assets/ddb.png" />
 </div>
 <i>流数据引擎研发、Runtime 性能优化、流数据高可用</i>
 
@@ -42,6 +43,7 @@
 <div style="display: flex; justify-content: space-between;">
 <div><b>Tencent IEG 北极光工作室</b> - Game server development - Intern</div>
 <div>2024.06 ~ 2024.09</div>
+<img align="right" width="88" src="./assets/tencent.png" />
 </div>
 <i>游戏逻辑业务仔</i>
 
@@ -83,7 +85,7 @@
 
 </table>
 
-🌱 Current Stats
+## 🌱 Current Stats
 <!-- Used from https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Leager-zju&rank_icon=github&show_icons=true" alt="Leager-zju" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leager-zju&layout=compact" alt="Top Languages" height="150">
