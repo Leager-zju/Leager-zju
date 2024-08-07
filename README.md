@@ -6,13 +6,19 @@
 
 </div>
 
-## About Me
-
-<table width="100%" border="1">
+<table border="2">
 
 <tr><td>
 
-### Education
+## 🥰About Me
+
+没成为大锦鲤，前途好比善良的猩猩。
+
+</td></tr>
+
+<tr><td>
+
+## 🏫Education
 
 <b>Zhejiang University</b> - Information Engineering - Bachelor - ⏱️2018.09 ~ 2022.06
 
@@ -28,7 +34,7 @@
 
 <tr><td>
 
-### Internships & Work
+## 💼Internships & Work
 
 <b>DolphinDB</b> - Database kernel development - Intern - ⏱️2023.12 ~ 2024.04
 
@@ -44,7 +50,7 @@
 
 <tr><td>
 
-### Projects
+## 💻Projects
 
 - **CMU15445**(C++) - [数据库系统](https://github.com/Leager-zju/CMU15-445)
 - **MIT6.s081**(C) - [操作系统](https://github.com/Leager-zju/MIT-6.s081)
@@ -56,7 +62,7 @@
 
 <tr><td>
 
-### Skills
+## 💪🏻Skills
 
 - Languages
   - **C++**
@@ -78,10 +84,10 @@
 
 <tr><td>
 
-
 ## 🌱 Current Stats
 
 <div align="center">
+
 <!-- Used from https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Leager-zju&rank_icon=github&show_icons=true" alt="Leager-zju" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leager-zju&layout=compact" alt="Top Languages" height="150">
@@ -93,5 +99,7 @@
 </picture>
 
 </div>
+
+</td><tr>
 
 </table>
