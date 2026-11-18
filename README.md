@@ -40,16 +40,21 @@
 
 ## 💼Internships & Work
 
+<b>Tencent IEG 魔方工作室</b> - Game Client Development - GamePlay Dev - ⏱️2025.06 ~
 
-<b>Tencent IEG 北极光工作室</b> - Game server development - Intern - ⏱️2024.06 ~ 2024.09
+<i>Vibe Coder</i>
+
+<br>
+
+<b>Tencent IEG 北极光工作室</b> - Game Server Development - Intern - ⏱️2024.06 ~ 2024.09
 
 <i>游戏逻辑业务仔</i>
 
 <br>
 
-<!-- <b>DolphinDB</b> - Database kernel development - Intern - ⏱️2023.12 ~ 2024.04
+<b>DolphinDB</b> - Database kernel development - Intern - ⏱️2023.12 ~ 2024.04
 
-<i>流数据引擎研发、Runtime 性能优化、流数据高可用</i> -->
+<i>流数据引擎研发、Runtime 性能优化、流数据高可用</i>
 
 </td></tr>
 
